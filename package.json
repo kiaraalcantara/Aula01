@@ -1,0 +1,12 @@
+{
+  "name": "Aula01",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Kiara",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0"
+  }
+}
